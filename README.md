@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+Hi there 👋
+💫 About Me:
 👯 I’m looking to collaborate on real-world full-stack and AI/ML projects<br>🤝 I’m looking for help with building scalable backend systems and deploying ML models<br>🌱 I’m currently learning Data Structures & Algorithms, React, and AI integration<br>💬 Ask me about JavaScript, problem-solving, and beginner-friendly AI projects<br>⚡ Fun fact: I love turning ideas into real working projects 
 
 
